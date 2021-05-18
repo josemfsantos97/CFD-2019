@@ -1,4 +1,4 @@
-## Finite Differences and Finite Volume Methods
+# Finite Differences and Finite Volume Methods
 The first assignment is divided into two parts. The first part consisted of an implementation of a finite difference approximation and to get insights about sources of error. In the second part the linearized potential flow equations and the small perturbations approach was solved with the Finite Volume Methods.
 
 ### Finite Differences - Implementation and error decay analysis
